@@ -30,9 +30,11 @@ main{
 /* personal information */
 .profile-img{
     border-radius: 50%; 
+    margin: -31px;
 
 }
 
+h1,
 h2{
     color:  hsl(229, 23%, 23%);
     font-weight: 700;
